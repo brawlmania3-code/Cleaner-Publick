@@ -1,0 +1,6 @@
+# Игнорируем файл с паролем, чтобы он не улетел в интернет
+cleaner_code.txt
+
+# Игнорируем мусор от Windows
+Thumbs.db
+desktop.ini
